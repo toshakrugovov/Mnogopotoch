@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\Desktop\\Mnopotoch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDAF746-62F6-4375-8496-FE453F4100EF}|PraktPosl\\PraktPosl.vcxproj|C:\\Users\\anton\\Desktop\\Mnopotoch\\PraktPosl\\PraktPosl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BDAF746-62F6-4375-8496-FE453F4100EF}|PraktPosl\\PraktPosl.vcxproj|solutionrelative:PraktPosl\\PraktPosl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B92DC2-6A67-4C8E-A8C8-CADB93829049}|Mnopotoch\\Mnopotoch.vcxproj|C:\\Users\\anton\\Desktop\\Mnopotoch\\Mnopotoch\\Mnopotoch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6B92DC2-6A67-4C8E-A8C8-CADB93829049}|Mnopotoch\\Mnopotoch.vcxproj|solutionrelative:Mnopotoch\\Mnopotoch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PraktPosl.cpp",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\Mnopotoch\\PraktPosl\\PraktPosl.cpp",
+              "RelativeDocumentMoniker": "PraktPosl\\PraktPosl.cpp",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\Mnopotoch\\PraktPosl\\PraktPosl.cpp",
+              "RelativeToolTip": "PraktPosl\\PraktPosl.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEoAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-18T20:40:29.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mnopotoch.cpp",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\Mnopotoch\\Mnopotoch\\Mnopotoch.cpp",
+              "RelativeDocumentMoniker": "Mnopotoch\\Mnopotoch.cpp",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\Mnopotoch\\Mnopotoch\\Mnopotoch.cpp",
+              "RelativeToolTip": "Mnopotoch\\Mnopotoch.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswCUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-05T13:18:01.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
